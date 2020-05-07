@@ -1,5 +1,5 @@
 <h2 align="center">
-   Template Reactjs + Typescript
+   Template ReactJs + Typescript
 </h2>
 
 <h3 align="center">
